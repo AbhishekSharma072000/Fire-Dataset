@@ -32,5 +32,5 @@ This dataset is intended for:
 
 - We have 2 versions of the datasets
   1. Mini-Version:  https://drive.google.com/drive/folders/1dqFCyxS1xzG3uh70KWrDYW-M2C_e6Yl_?usp=drive_link
-  2. Full Version:
-     Email me to gain access for full version.
+  2. Full Version: https://drive.google.com/drive/folders/1sk73pfmq0C24AKGW7oj7McD_pokykEQv?usp=drive_link
+     
