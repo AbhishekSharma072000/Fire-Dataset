@@ -28,5 +28,8 @@ This dataset is intended for:
 - Research and academic purposes.
 - This is made out of multiple datasets for the ease of my project's execution.
 
-  # References
-  
+# Dataset Details
+
+- We have 2 versions of the datasets
+  1. Mini-Version:
+  2. Full Version:
